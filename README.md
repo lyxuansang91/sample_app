@@ -4,7 +4,7 @@
 
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Ly Xuan Sang](http://michaelhartl.com/).
+by [Ly Xuan Sang](http://railstutorial.org/).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
